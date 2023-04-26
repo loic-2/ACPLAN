@@ -1,0 +1,35 @@
+{
+    "name": "acplan",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@fullcalendar/core": "^6.1.4",
+        "@fullcalendar/resource": "^6.1.4",
+        "@fullcalendar/resource-timegrid": "^6.1.4",
+        "@fullcalendar/resource-timeline": "^6.1.4",
+        "@fullcalendar/vue3": "^6.1.4",
+        "axios": "^1.3.4",
+        "bootstrap": "^5.2.3",
+        "chart.js": "^4.2.1",
+        "fullcalendar": "^6.1.4",
+        "pinia": "^2.0.33",
+        "vue": "^3.2.47",
+        "vue-chartjs": "^5.2.0",
+        "vue-loading-overlay": "^6.0.3",
+        "vue-multiselect": "^3.0.0-beta.1",
+        "vue-router": "^4.1.6",
+        "vue-toastification": "^2.0.0-rc.5",
+        "vue3-lottie": "^2.5.0",
+        "vuejs3-datepicker": "^1.0.16",
+        "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.2/xlsx-0.19.2.tgz"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.0.0",
+        "vite": "^4.1.4"
+    }
+}
